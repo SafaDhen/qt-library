@@ -1,3 +1,0 @@
-michael;life;1;300
-shanon;informatik;2;200
-jena;reise;3;500

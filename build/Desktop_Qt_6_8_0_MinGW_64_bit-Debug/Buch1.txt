@@ -1,4 +1,0 @@
-safa;life;1
-jena;reise;2
-michael;flowers;3
-shanon;informatik;4
